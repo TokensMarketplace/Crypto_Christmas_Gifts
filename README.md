@@ -3,10 +3,15 @@
 # ChristmasPresents.sol V1.0
 
 # Introduction
-ChristmasPresents.sol is a smart-contract that anables loterry competition on Ethereum blockhain. Competitors send their ETH in order to compete and contract sends them 
-a package of random amounts of ERC20 tokens as a reward. They also get their unique ticket ID which makes them eligible for one of the three main prizes. 
-After compentition ends, on 24th of Dec.2018., the contract generates three random IDs that correspond to competitors' addresses and choses the winners. 
-Total amount of fee equals to 10% of collected ETH, third winner gets 10% of the rest, second gets 30% and the main winner gets 60% of ETH.  
+ChristmasPresents.sol is a smart-contract that enables giveaway competition on
+Ethereum blockhain. Competitors send their ETH in order to compete and contract
+sends them a package of random amount of ERC20 tokens as a reward. They also get
+their unique coupon ID which makes them eligible for one of the three main prizes.
+After compentition ends, on 24th of December 2018 at 00:00 (CET), the contract
+generates three random IDs that correspond to competitors' addresses and chooses the
+winners. Total amount of fee equals to 10% of collected ETH, third winner gets 10% of the rest,
+second gets 30% and the main winner gets 60% of ETH.
+
 
 ## Table of Contents (TOC) 
 * Usage
